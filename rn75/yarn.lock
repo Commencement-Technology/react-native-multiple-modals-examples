@@ -3974,7 +3974,7 @@ __metadata:
 
 "demo-components@file:../demo-components::locator=react_native_multiple_modals_app%40workspace%3A.":
   version: 0.0.1
-  resolution: "demo-components@file:../demo-components#../demo-components::hash=0656a1&locator=react_native_multiple_modals_app%40workspace%3A."
+  resolution: "demo-components@file:../demo-components#../demo-components::hash=2f8ecf&locator=react_native_multiple_modals_app%40workspace%3A."
   peerDependencies:
     "@react-native-community/blur": ">=4"
     react: ^18
@@ -3983,7 +3983,7 @@ __metadata:
     react-native-multiple-modals: "*"
     react-native-reanimated: ">=3"
     react-native-safe-area-context: ">=4"
-  checksum: 8b54b742ecf8edc0a2851e91dbc7a9d42cfd28569ba573b6ffd33199bdb5c6d044cc7174517922e039922467de0848127cb6192d43fbdee14686969569bb4559
+  checksum: eac4f3bce6ab3804fc5d45e2bd69e4e72a49a8a251c7f269e522271146d8f355f8d4d3f93b7da902b1a665eaeb9fd084fad97fc97c7d12197251fbbd56c3ad63
   languageName: node
   linkType: hard
 
@@ -7151,9 +7151,9 @@ __metadata:
   linkType: hard
 
 "node-forge@npm:^1":
-  version: 1.3.1
-  resolution: "node-forge@npm:1.3.1"
-  checksum: 08fb072d3d670599c89a1704b3e9c649ff1b998256737f0e06fbd1a5bf41cae4457ccaee32d95052d80bbafd9ffe01284e078c8071f0267dc9744e51c5ed42a9
+  version: 1.3.2
+  resolution: "node-forge@npm:1.3.2"
+  checksum: b6f905b0fcc39a2d59598e12ca2c071bfd760e56a9163aab8da7f8d6622547f8db60cfb2aefc39277d5a13af32e58573674b38107a2d4df7c243e12794839546
   languageName: node
   linkType: hard
 
@@ -7790,20 +7790,10 @@ __metadata:
 
 "react-native-multiple-modals@file:../../react-native-multiple-modals::locator=react_native_multiple_modals_app%40workspace%3A.":
   version: 1.2.5
-  resolution: "react-native-multiple-modals@file:../../react-native-multiple-modals#../../react-native-multiple-modals::hash=71316d&locator=react_native_multiple_modals_app%40workspace%3A."
+  resolution: "react-native-multiple-modals@file:../../react-native-multiple-modals#../../react-native-multiple-modals::hash=210653&locator=react_native_multiple_modals_app%40workspace%3A."
   dependencies:
     "@react-native/virtualized-lists": ^0.75.4
-  peerDependencies:
-    "@types/react": "*"
-    "@types/react-native": "*"
-    react: ^18
-    react-native: ">=0.70.0"
-  peerDependenciesMeta:
-    "@types/react":
-      optional: true
-    "@types/react-native":
-      optional: true
-  checksum: e2bc89a524077a2fb8be15ef47606a95f86f03493172fe645168c26be35060b3198b871f8e4d67cfdf02cdafc7d91aa601006e0268e4857b031511c01845f239
+  checksum: fc7961c5adbaaff6c6a593bd688732a2f3b45ab656b79d0b816c505c8aa3adf7b5e6d1b98282fd3dc95008c54ce953ae3bda86fbcc40a303a8c9faa4d7732bd0
   languageName: node
   linkType: hard
 
